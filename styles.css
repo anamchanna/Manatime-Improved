@@ -474,7 +474,7 @@ img.grey {
         text-align: center;
         padding: 1rem;
     }
-    a.nav-link {
+    .top-nav a.nav-link {
         text-align: center !important;
     }
     .pr-0 {
